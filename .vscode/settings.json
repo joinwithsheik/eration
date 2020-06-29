@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1dbe28c9-d21f-47a2-84c1-b247cc289f78/resourceGroups/FreeTrialGroup/providers/Microsoft.Web/sites/eration-api-govt",
+    "appService.deploySubpath": "."
+}
